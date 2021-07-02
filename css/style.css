@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#cont {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #FFFAEE;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#titi {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url(../images/light-paper-texture-free-photo.jpeg);
+}
+#t1 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #DAD7A4;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#t1 p img {
+    float: left;
+    padding-right: 10px;
+}
+#t2 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #CFC581;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t2 p img {
+    float: right;
+    padding-left: 10px;
+}
+#t2 p img {
+}
+#t3 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #E3D88E;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 p img {
+    float: left;
+    padding-right: 10px;
+}
+#t4 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #E6D287;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+#t4 p img {
+    float: right;
+    padding-left: 10px;
+}
+#t5 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #E2C34F;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+#t5 p img {
+    float: left;
+    padding-right: 10px;
+}
+#menu {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #0066ED;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+}
